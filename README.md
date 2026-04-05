@@ -4,6 +4,7 @@ A web application that recommends personalized recipes based on the user's food 
 
 ## ✨ Features
 
+- **AI Culinary Assistant**: An intelligent chatbot powered by the Google Gemini API to answer dietary questions, suggest creative ingredient substitutions, and guide users through recipes in real-time.
 - **Personalized Calorie Calculation**: Calculates daily caloric needs using the Harris-Benedict formula.
 - **Food Inventory Management**: Track your available ingredients and record their expiration dates.
 - **Smart Recipe Recommendations**: Automatically finds recipes that can be made with your current inventory.
